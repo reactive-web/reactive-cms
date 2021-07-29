@@ -31,7 +31,7 @@
     "fastify-csrf": "^1.0.2",
     "fastify-formbody": "^3.1.0",
     "fastify-helmet": "^3.0.2",
-    "fastify-multipart": "^1.0.4",
+    "fastify-multipart": "^1.0.5",
     "fastify-session": "^3.2.0",
     "fastify-static": "^2.5.1",
     "fastify-url-data": "^2.4.0",
